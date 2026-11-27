@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:LACOUR;Patricia;;;
+FN:Patricia LACOUR
+ORG:BTP CFA Centre-Val de Loire
+TITLE:Directrice Formations, Ingénieries Pédagogiques et Certification
+TEL;TYPE=WORK,VOICE:0234520794
+TEL;TYPE=CELL,VOICE:0677408293
+EMAIL;TYPE=PREF,INTERNET:patricia.lacour@btpcfa-cvdl.fr
+URL:https://btpcfa-cvdl.fr
+ADR;TYPE=WORK:;;343 Rue Maryse Hilsz;Saran;;45770;France
+END:VCARD
